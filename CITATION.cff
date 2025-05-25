@@ -10,7 +10,6 @@ type: software
 authors:
   - given-names: Talaial Badru Alina
     email: talaial.alina@colorado.edu
-    name-particle: Talaial
     affiliation: University of Colorado Boulder
     orcid: 'https://orcid.org/0000-0002-7850-0828'
 repository-code: 'https://github.com/ThundaNann/hydrogel_transport'
