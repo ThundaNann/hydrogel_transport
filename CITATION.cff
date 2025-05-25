@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sonic_Concepts_Coupling_Cone
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Talaial Badru Alina
+    email: talaial.alina@colorado.edu
+    name-particle: Talaial
+    affiliation: University of Colorado Boulder
+    orcid: 'https://orcid.org/0000-0002-7850-0828'
+repository-code: 'https://github.com/ThundaNann/hydrogel_transport'
+abstract: Code repository for works related to hydrogel transport
+license: Apache-2.0
+version: 1.1.0
+date-released: '2025-05-25'
